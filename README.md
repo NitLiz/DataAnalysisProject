@@ -1,2 +1,2 @@
 # DataAnalysisProject
-Contain PowerBI and Tableau files
+Contain PowerBI PBIX files
